@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelipeLFirmino
-- 👀 I’m interested in front end development 
-- 🌱 I’m currently learning NextJS
+- 👀 I’m interested in front end development and java development
+- 🌱 I’m currently learning Java
 - 📫 I’m looking to collaborate on any front end project
 - 📫 How to reach me lipe19x@gmail.com 
 - 📫 visit my linkeIn profile :www.linkedin.com/in/felipe-firmino-646aa0213
