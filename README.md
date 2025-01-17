@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FelipeLFirmino
 - 👀 I’m interested in front end development and java development
-- 🌱 I’m currently learning Java
-- 📫 I’m looking to collaborate on any javascript,react or java project
+- 🌱 I’m currently learning Angular and Golang
+- 📫 I’m looking to collaborate on any javascript,react project
 - 📫 How to reach me lipe19x@gmail.com 
 - 📫 visit my linkeIn profile :www.linkedin.com/in/felipe-firmino-646aa0213
 
