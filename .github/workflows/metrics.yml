@@ -1,8 +1,8 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]  # Roda todo dia
-  workflow_dispatch:              # Permite rodar manual
+  schedule: [{ cron: "0 0 * * *" }]  # Executa diariamente à meia-noite UTC
+  workflow_dispatch:                # Permite executar manualmente
 
 jobs:
   github-metrics:
@@ -10,9 +10,24 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Seu token salvo nos Secrets
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Usuário alvo
           user: FelipeLFirmino
-          base: header, activity, community, repositories, metadata
+
+          # Define que o arquivo deve ser salvo no repositório
+          output_action: commit
+          output: github-metrics.svg
+
+          # Configurações básicas
           config_timezone: America/Sao_Paulo
+          base: header, activity, community, repositories, metadata
+
+          # Plugins extras
           plugin_languages: yes
+          plugin_languages_ignored: html  # ignora HTML
+          plugin_languages_details: bytes-size, percentage
           plugin_traffic: yes
+          plugin_followup: yes
+          plugin_stargazers: yes
