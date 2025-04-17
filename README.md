@@ -33,11 +33,8 @@
 ---
 
 ### 📈 GitHub Stats
+<img src="https://raw.githubusercontent.com/FelipeLFirmino/FelipeLFirmino/master/github-metrics.svg" alt="GitHub Metrics" />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeLFirmino&show_icons=true&count_private=true&theme=dracula&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLFirmino&layout=compact&theme=dracula&hide_border=true"/>
-</div>
 
 ---
 
