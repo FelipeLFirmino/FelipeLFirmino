@@ -8,8 +8,8 @@
 
 ### Sobre mim
 
--  Focado em **desenvolvimento front-end (Angular, React)** e **back-end com Go **
--  Atualmente estudando **Golang**, **Angular** 
+-  Focado em **desenvolvimento front-end (Angular, React)** back-end com Go e python
+-  Atualmente estudando **Python**, **Angular** 
 -  Gosto de criar projetos com foco em usabilidade, performance e segurança
 -  Sempre disposto a colaborar em projetos open source e desafios técnicos
 -  Curto resolver desafios técnicos no leet code ! [https://leetcode.com/u/FelipeLFirmino/]
@@ -23,6 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)
